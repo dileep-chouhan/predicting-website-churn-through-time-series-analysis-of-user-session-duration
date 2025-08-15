@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib
+statsmodels.tsa.seasonal
+statsmodels.tsa.holtwinters
